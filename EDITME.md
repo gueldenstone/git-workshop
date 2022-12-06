@@ -2,8 +2,6 @@
 
 ## Example Edit
 Hi I'm gueldi and I like git! 🥰
-
-## Another Example Edit
 Hi, I'm Mitch, and I kinda like git.  ;)
-
-
+Hi I'm pandora and I like it too!
+Hi I'm meekah and this is a kick-ass workshop!
