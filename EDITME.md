@@ -3,3 +3,7 @@
 ## Example Edit
 Hi I'm gueldi and I like git! 🥰
 
+## Another Example Edit
+Hi, I'm Mitch, and I kinda like git.  ;)
+
+
