@@ -9,5 +9,5 @@
 4. Remember:
   - `git add .`
   - `git commit -m '<my_commit_message>'`
-  - `git push`
+  - `git push --set-upstream origin <my_branch_name>`
 5. You can open a pull request with the url that is shown in the terminal
